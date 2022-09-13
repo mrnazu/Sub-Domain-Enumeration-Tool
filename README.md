@@ -1,4 +1,4 @@
-## <h1 align="center">Sub Domain Enumerator By Samuel(Nazu) Amsalu</h1>
+## <h1 align="center">Sub Domain Enumerator ☠️ ☠️</h1>
 ## Description: 
     Brute force means guessing possible combinations of the target until the expected output is discovered. 
     So, in the subdomain context, the brute-forcing is to try the possible combination of words, 
