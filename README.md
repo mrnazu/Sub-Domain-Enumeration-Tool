@@ -5,3 +5,6 @@
     alphabets, and numbers before the main domain in order to get a subdomain that is resolved to IP address.
 ## Usage:
     python3 sub.py# Sub-Domain-Enumeration-Tool
+    
+  ![sub](https://user-images.githubusercontent.com/108541991/189877380-891cfcab-b84a-41c1-a257-21af59cfde72.jpg)
+
